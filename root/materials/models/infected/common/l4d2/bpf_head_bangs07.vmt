@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+    $basetexture "models/infected/common/l4d2/cif_head_bangs"
+    $bumpmap "models/infected/common/shared/normal_head"
+
+    $surfaceprop "flesh"
+
+    $phong 1
+    $phongboost 1.5
+    $phongexponent 15
+    $halflambert 1
+}

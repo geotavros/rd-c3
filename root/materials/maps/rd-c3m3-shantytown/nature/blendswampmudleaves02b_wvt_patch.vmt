@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/swamp_leaves01"
+	"%detailtype"		"urban_overgrown"
+	"$bumpmap"		"concrete/pavement_height-ssbump"
+	"$ssbump"		"1"
+	"$surfaceprop"		"dirt"
+}

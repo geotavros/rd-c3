@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+    $basetexture "models/infected/common/l4d2/cif_tshirt_skirt_swamp"
+    $detail "models/infected/common/l4d2/detail/ci_detail_algae"
+    $detailscale 6
+
+    $bumpmap "models/infected/common/shared/normal"
+    $surfaceprop "flesh"
+
+    $phong 1
+    $phongboost 2
+    $phongexponent 10
+}

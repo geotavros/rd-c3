@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/URBAN_PLASTERWALL_01A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rd-c3m3-shantytown/c-5000_1389_168"
+	}
+}
