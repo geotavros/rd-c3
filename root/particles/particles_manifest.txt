@@ -2,4 +2,5 @@ particles_manifest
 {
 	"file"		"particles/environmental_fx_l4d2.pcf"
 	"file"		"particles/vehicle_fx_l4d2.pcf"
+	"file"		"particles/insect_fx_l4d2.pcf"
 }
