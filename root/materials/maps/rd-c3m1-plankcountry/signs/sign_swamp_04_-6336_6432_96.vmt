@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SIGNS/SIGN_SWAMP_04.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rd-c3m1-plankcountry/c-6336_6432_96"
+	}
+}

@@ -1,0 +1,17 @@
+"Credits"
+{
+// these keys must be in this order!
+"show_credits_logo" "0"
+"custom_logo"	""
+"asw_credits_"	"Mapper:"
+"asw_credits_"	"vq"
+"asw_credits_"	"Thanks to:"
+"asw_credits_"	"jhheight"
+"asw_credits_"	"Orange"
+"asw_credits_"	"Dmitriy"
+"asw_credits_"	"Valve"
+"asw_credits_"	""
+"asw_credits_"	"" 
+"asw_credits_"	""
+"asw_credits_"	""
+}

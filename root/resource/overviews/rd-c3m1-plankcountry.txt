@@ -1,0 +1,16 @@
+GAME
+{
+	"pos_x"	"-15099"
+	"pos_y"	"12328"
+	"scale"	"14"
+	"material" "vgui/swarm/Overviews/rd-c3m1-plankcountryoverview"
+	"briefingmaterial" "vgui/swarm/Overviews/rd-c3m1-plankcountryoverview"
+	"mapyoffset" "0"
+	"missiontitle"		"Plank Country"
+	"description"	"No CEDA. No Military. Stay out."
+	"image"		"swarm/MissionPics/background03_exit_widescreen"
+	"version"		"1"
+	"author"		"vq"
+	"builtin"		"1"
+	"regional_material"	"retrieved_documents"
+}

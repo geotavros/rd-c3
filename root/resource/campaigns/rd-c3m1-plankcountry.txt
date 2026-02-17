@@ -1,0 +1,50 @@
+GAME
+{
+	"CampaignName" "L4D2: Swamp Fever"
+	"CampaignDescription" "Make your way through the swamps to a plantation house where a boat is coming to save you."
+	"ChooseCampaignTexture" "swarm/MissionPics/loadingscreen_swampfever_widescreen"
+	"CampaignTextureName" "swarm/MissionPics/loadingscreen_swampfever_widescreen"
+	"CampaignTextureLayer1" "swarm/Campaign/JacobCampaignMap_Haze"
+	"CampaignTextureLayer2" "swarm/Campaign/CampaignMap_EmptyLayer"
+	"CampaignTextureLayer3" "swarm/Campaign/CampaignMap_EmptyLayer"
+	"CustomCreditsFile" 	"resource/credits_c3m1"
+	"GalaxyX"   "512"
+	"GalaxyY"   "512"
+	"MISSION"
+	{
+		"MissionName"		"Bogo Desert"
+		"MapName"		"dropzone"
+		"LocationX"		"1000"
+		"LocationY"		"880"
+		"DifficultyModifier" 	"-2"
+		"Links"			"rd-c3m1-plankcountry" 
+		"LocationDescription"  	""
+		"ShortBriefing"  	""
+	}
+	"MISSION"
+	{
+		"MissionName"		"Plank Country"
+		"MapName"		"rd-c3m1-plankcountry"
+		"LocationX"		"224"
+		"LocationY"		"620"
+		"ThreatString" 		"1"
+		"LocationDescription" 	""
+		"ShortBriefing"  	""
+		"Links"			"dropzone rd-c3m2-swamp" 
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"The Swamp"
+		"MapName"		"rd-c3m2-swamp"
+		"LocationX"		"224"
+		"LocationY"		"620"
+		"ThreatString" 		"1"
+		"LocationDescription" 	""
+		"ShortBriefing"  	""
+		"Links"			"rd-c3m1-plankcountry" 
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+}

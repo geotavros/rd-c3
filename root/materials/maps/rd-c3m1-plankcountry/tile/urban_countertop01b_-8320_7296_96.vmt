@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/URBAN_COUNTERTOP01B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rd-c3m1-plankcountry/c-8320_7296_96"
+	}
+}

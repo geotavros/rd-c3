@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METAL_CORRUGATED03A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rd-c3m2-swamp/c8361_1124_194"
+	}
+}

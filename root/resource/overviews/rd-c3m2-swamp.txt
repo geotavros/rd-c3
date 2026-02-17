@@ -1,0 +1,16 @@
+GAME
+{
+	"pos_x"	"-11626"
+	"pos_y"	"12008"
+	"scale"	"19"
+	"material" "vgui/swarm/Overviews/rd-c3m2-swampoverview"
+	"briefingmaterial" "vgui/swarm/Overviews/rd-c3m2-swampoverview"
+	"mapyoffset" "0"
+	"missiontitle"		"The Swamp"
+	"description"	"Now I know why you would jump out of an airplane."
+	"image"		"swarm/MissionPics/rd-c3m2-swamp"
+	"version"		"1"
+	"author"		"vq"
+	"builtin"		"1"
+	"regional_material"	"retrieved_documents"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/ground_grass03"
+	"$ssbump"		"1"
+	"$surfaceprop"		"dirt"
+	"%keywords"		"l4d2"
+}

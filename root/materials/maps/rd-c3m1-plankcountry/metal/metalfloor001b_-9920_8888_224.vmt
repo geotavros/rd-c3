@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALFLOOR001B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rd-c3m1-plankcountry/c-9920_8888_224"
+	}
+}
