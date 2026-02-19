@@ -43,7 +43,20 @@ GAME
 		"ThreatString" 		"1"
 		"LocationDescription" 	""
 		"ShortBriefing"  	""
-		"Links"			"rd-c3m1-plankcountry" 
+		"Links"			"rd-c3m1-plankcountry rd-c3m3-shantytown" 
+		"AlwaysVisible"		"1"
+		"NeedsMoreThanOneMarine" "0"
+	}
+	"MISSION"
+	{
+		"MissionName"		"Shanty Town"
+		"MapName"		"rd-c3m3-shantytown"
+		"LocationX"		"224"
+		"LocationY"		"620"
+		"ThreatString" 		"1"
+		"LocationDescription" 	""
+		"ShortBriefing"  	""
+		"Links"			"rd-c3m2-plankcountry" 
 		"AlwaysVisible"		"1"
 		"NeedsMoreThanOneMarine" "0"
 	}

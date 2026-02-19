@@ -1,0 +1,16 @@
+GAME
+{
+	"pos_x"	"-7678"
+	"pos_y"	"4182"
+	"scale"	"12"
+	"material" "vgui/swarm/Overviews/rd-c3m3-shantytownoverview"
+	"briefingmaterial" "vgui/swarm/Overviews/rd-c3m3-shantytownoverview"
+	"mapyoffset" "0"
+	"missiontitle"		"Shanty Town"
+	"description"	"If anybody could survive this...it would be people, who live like this..."
+	"image"		"swarm/MissionPics/rd-c3m3-shantytown"
+	"version"		"1"
+	"author"		"vq"
+	"builtin"		"1"
+	"regional_material"	"retrieved_documents"
+}
