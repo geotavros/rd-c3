@@ -12,11 +12,6 @@ sineperiod 2
 sinemin 0
 sinemax .5
 }
-PlayerTeam
-{
-team 3 
-resultVar $proxTeam
-}
 Multiply
 {
 srcVar1 $alpha
