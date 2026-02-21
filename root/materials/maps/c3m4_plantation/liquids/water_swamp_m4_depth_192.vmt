@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/liquids/water_swamp_m4.vmt"
+	"insert"
+	{
+		"$waterdepth"		"192"
+	}
+}

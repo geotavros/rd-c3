@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/ROOFFLOOR_TAR01_DRY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/c3m4_plantation/c1664_-224_640"
+	}
+}

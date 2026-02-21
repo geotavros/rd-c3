@@ -1,0 +1,12 @@
+"patch"
+{
+	"include"		"materials/METAL/METALROOF004A_C17.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/c3m4_plantation/c-1894_-2679_45"
+		"lightmappedgeneric_HDR_dx9"
+		{
+			"$envmap"		"maps/c3m4_plantation/c-1894_-2679_45"
+		}
+	}
+}

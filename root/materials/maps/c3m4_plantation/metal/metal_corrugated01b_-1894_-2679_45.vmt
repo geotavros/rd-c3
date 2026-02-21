@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METAL_CORRUGATED01B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/c3m4_plantation/c-1894_-2679_45"
+	}
+}
