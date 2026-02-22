@@ -8,13 +8,4 @@
 	$no_fullbright 1
 	$ignorez 1
 	$alpha 0.35
-	Proxies
-	{
-		TextureScroll
-		{
-			texturescrollvar $basetexturetransform
-			texturescrollrate .3
-			texturescrollangle 0
-		}
-	}
 }
