@@ -1,0 +1,16 @@
+GAME
+{
+	"pos_x"	"-6970"
+	"pos_y"	"7961"
+	"scale"	"12"
+	"material" "vgui/swarm/Overviews/rd-c3m4-plantationoverview"
+	"briefingmaterial" "vgui/swarm/Overviews/rd-c3m4-plantationoverview"
+	"mapyoffset" "0"
+	"missiontitle"		"The Plantation"
+	"description"	"I'm standing by a big gate. In front of a big house."
+	"image"		"swarm/MissionPics/rd-c3m4-plantation"
+	"version"		"1"
+	"author"		"vq"
+	"builtin"		"1"
+	"regional_material"	"retrieved_documents"
+}
