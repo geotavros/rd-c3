@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "485"
+	"mapversion" "486"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "485"
+	"mapversion" "486"
 	"classname" "worldspawn"
 	"coldworld" "0"
 	"comment" "Decompiled by BSPSource v1.4.7 from c3m1_plankcountry"
@@ -113127,8 +113127,8 @@ world
 					"row4" "255 255 255 255 255 255 255 255 255"
 					"row5" "255 0 0 255 255 255 255 255 255"
 					"row6" "255 0 30 255 255 255 255 0 255"
-					"row7" "245.063 245.063 0 0 172.625 172.625 30 0 0"
-					"row8" "245.063 134.063 33 61.625 0 0 0 0 175.313"
+					"row7" "245.063 245.063 0 0 172.625 0 0 0 0"
+					"row8" "245.063 134.063 33 61.625 0 0 0 0 0"
 				}
 				triangle_tags
 				{
@@ -113287,7 +113287,7 @@ world
 					"row5" "255 255 255 255 0 0 0 0 0"
 					"row6" "255 255 255 212.5 0 0 0 119.334 71"
 					"row7" "0 0 127.5 0 90.25 0 94.3335 46 0"
-					"row8" "63.75 0 0 5.25 10.5 15.75 21 18.375 15.75"
+					"row8" "0 0 0 0 0 0 0 0 0"
 				}
 				triangle_tags
 				{
@@ -378019,8 +378019,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-10008.6 9594.36 527.868]"
-		"look" "[-9935.35 9837.08 351.661]"
+		"position" "[-6658.65 7059.64 382.74]"
+		"look" "[-6639.29 7222.1 120.906]"
 	}
 }
 cordons
