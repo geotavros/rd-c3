@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "481"
+	"mapversion" "482"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "481"
+	"mapversion" "482"
 	"classname" "worldspawn"
 	"coldworld" "0"
 	"comment" "Decompiled by BSPSource v1.4.7 from c3m1_plankcountry"
@@ -102726,7 +102726,7 @@ world
 		{
 			"id" "8413"
 			"plane" "(-11264 9728 160) (-11776 9728 160) (-11776 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -102820,7 +102820,7 @@ world
 		{
 			"id" "8414"
 			"plane" "(-11264 9728 159) (-11776 10240 159) (-11776 9728 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -102831,7 +102831,7 @@ world
 		{
 			"id" "8415"
 			"plane" "(-11264 9728 160) (-11264 9728 159) (-11776 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -102842,7 +102842,7 @@ world
 		{
 			"id" "8416"
 			"plane" "(-11776 9728 160) (-11776 9728 159) (-11776 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -102853,7 +102853,7 @@ world
 		{
 			"id" "8417"
 			"plane" "(-11776 10240 160) (-11776 10240 159) (-11264 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -102864,7 +102864,7 @@ world
 		{
 			"id" "8418"
 			"plane" "(-11264 10240 160) (-11264 10240 159) (-11264 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -102885,7 +102885,7 @@ world
 		{
 			"id" "8420"
 			"plane" "(-11264 9216 160) (-11776 9216 160) (-11776 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 498] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -102979,7 +102979,7 @@ world
 		{
 			"id" "8421"
 			"plane" "(-11264 9216 159) (-11776 9728 159) (-11776 9216 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -102990,7 +102990,7 @@ world
 		{
 			"id" "8422"
 			"plane" "(-11264 9216 160) (-11264 9216 159) (-11776 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103001,7 +103001,7 @@ world
 		{
 			"id" "8423"
 			"plane" "(-11776 9216 160) (-11776 9216 159) (-11776 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103012,7 +103012,7 @@ world
 		{
 			"id" "8424"
 			"plane" "(-11776 9728 160) (-11776 9728 159) (-11264 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103023,7 +103023,7 @@ world
 		{
 			"id" "8425"
 			"plane" "(-11264 9728 160) (-11264 9728 159) (-11264 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103044,7 +103044,7 @@ world
 		{
 			"id" "8427"
 			"plane" "(-10752 9216 160) (-11264 9216 160) (-11264 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 498] 0.25"
 			"vaxis" "[-0.9965 0 0.083 0] 0.25"
 			"rotation" "0"
@@ -103138,7 +103138,7 @@ world
 		{
 			"id" "8428"
 			"plane" "(-10752 9216 159) (-11264 9728 159) (-11264 9216 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.9965 0 0.083 0] 0.25"
 			"rotation" "0"
@@ -103149,7 +103149,7 @@ world
 		{
 			"id" "8429"
 			"plane" "(-10752 9216 160) (-10752 9216 159) (-11264 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103160,7 +103160,7 @@ world
 		{
 			"id" "8430"
 			"plane" "(-11264 9216 160) (-11264 9216 159) (-11264 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103171,7 +103171,7 @@ world
 		{
 			"id" "8431"
 			"plane" "(-11264 9728 160) (-11264 9728 159) (-10752 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103182,7 +103182,7 @@ world
 		{
 			"id" "8432"
 			"plane" "(-10752 9728 160) (-10752 9728 159) (-10752 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103203,7 +103203,7 @@ world
 		{
 			"id" "8434"
 			"plane" "(-10752 9728 160) (-11264 9728 160) (-11264 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -4] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103297,7 +103297,7 @@ world
 		{
 			"id" "8435"
 			"plane" "(-10752 9728 159) (-11264 10240 159) (-11264 9728 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103308,7 +103308,7 @@ world
 		{
 			"id" "8436"
 			"plane" "(-10752 9728 160) (-10752 9728 159) (-11264 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103319,7 +103319,7 @@ world
 		{
 			"id" "8437"
 			"plane" "(-11264 9728 160) (-11264 9728 159) (-11264 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103330,7 +103330,7 @@ world
 		{
 			"id" "8438"
 			"plane" "(-11264 10240 160) (-11264 10240 159) (-10752 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103341,7 +103341,7 @@ world
 		{
 			"id" "8439"
 			"plane" "(-10752 10240 160) (-10752 10240 159) (-10752 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103362,7 +103362,7 @@ world
 		{
 			"id" "8441"
 			"plane" "(-11776 8704 160) (-11776 9216 160) (-11264 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103456,7 +103456,7 @@ world
 		{
 			"id" "8442"
 			"plane" "(-11776 8704 159) (-11264 9216 159) (-11776 9216 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103467,7 +103467,7 @@ world
 		{
 			"id" "8443"
 			"plane" "(-11776 8704 160) (-11776 8704 159) (-11776 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103478,7 +103478,7 @@ world
 		{
 			"id" "8444"
 			"plane" "(-11776 9216 160) (-11776 9216 159) (-11264 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103489,7 +103489,7 @@ world
 		{
 			"id" "8445"
 			"plane" "(-11264 9216 160) (-11264 9216 159) (-11264 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103500,7 +103500,7 @@ world
 		{
 			"id" "8446"
 			"plane" "(-11264 8704 160) (-11264 8704 159) (-11776 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103521,7 +103521,7 @@ world
 		{
 			"id" "8448"
 			"plane" "(-10752 8704 160) (-11264 8704 160) (-11264 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -4] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103615,7 +103615,7 @@ world
 		{
 			"id" "8449"
 			"plane" "(-10752 8704 159) (-11264 9216 159) (-11264 8704 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103626,7 +103626,7 @@ world
 		{
 			"id" "8450"
 			"plane" "(-10752 8704 160) (-10752 8704 159) (-11264 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103637,7 +103637,7 @@ world
 		{
 			"id" "8451"
 			"plane" "(-11264 8704 160) (-11264 8704 159) (-11264 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103648,7 +103648,7 @@ world
 		{
 			"id" "8452"
 			"plane" "(-11264 9216 160) (-11264 9216 159) (-10752 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103659,7 +103659,7 @@ world
 		{
 			"id" "8453"
 			"plane" "(-10752 9216 160) (-10752 9216 159) (-10752 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103680,7 +103680,7 @@ world
 		{
 			"id" "8455"
 			"plane" "(-11264 8192 160) (-11776 8192 160) (-11776 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103750,7 +103750,7 @@ world
 		{
 			"id" "8456"
 			"plane" "(-11264 8192 159) (-11776 8704 159) (-11776 8192 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -103761,7 +103761,7 @@ world
 		{
 			"id" "8457"
 			"plane" "(-11264 8192 160) (-11264 8192 159) (-11776 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103772,7 +103772,7 @@ world
 		{
 			"id" "8458"
 			"plane" "(-11776 8192 160) (-11776 8192 159) (-11776 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103783,7 +103783,7 @@ world
 		{
 			"id" "8459"
 			"plane" "(-11776 8704 160) (-11776 8704 159) (-11264 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103794,7 +103794,7 @@ world
 		{
 			"id" "8460"
 			"plane" "(-11264 8704 160) (-11264 8704 159) (-11264 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -103974,7 +103974,7 @@ world
 		{
 			"id" "8469"
 			"plane" "(-10240 9728 160) (-10752 9728 160) (-10752 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -508] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104068,7 +104068,7 @@ world
 		{
 			"id" "8470"
 			"plane" "(-10240 9728 159) (-10752 10240 159) (-10752 9728 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104079,7 +104079,7 @@ world
 		{
 			"id" "8471"
 			"plane" "(-10240 9728 160) (-10240 9728 159) (-10752 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104090,7 +104090,7 @@ world
 		{
 			"id" "8472"
 			"plane" "(-10752 9728 160) (-10752 9728 159) (-10752 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104101,7 +104101,7 @@ world
 		{
 			"id" "8473"
 			"plane" "(-10752 10240 160) (-10752 10240 159) (-10240 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104112,7 +104112,7 @@ world
 		{
 			"id" "8474"
 			"plane" "(-10240 10240 160) (-10240 10240 159) (-10240 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104133,7 +104133,7 @@ world
 		{
 			"id" "8476"
 			"plane" "(-10240 9216 160) (-10752 9216 160) (-10752 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -508] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104203,7 +104203,7 @@ world
 		{
 			"id" "8477"
 			"plane" "(-10240 9216 159) (-10752 9728 159) (-10752 9216 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104214,7 +104214,7 @@ world
 		{
 			"id" "8478"
 			"plane" "(-10240 9216 160) (-10240 9216 159) (-10752 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104225,7 +104225,7 @@ world
 		{
 			"id" "8479"
 			"plane" "(-10752 9216 160) (-10752 9216 159) (-10752 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104236,7 +104236,7 @@ world
 		{
 			"id" "8480"
 			"plane" "(-10752 9728 160) (-10752 9728 159) (-10240 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104247,7 +104247,7 @@ world
 		{
 			"id" "8481"
 			"plane" "(-10240 9728 160) (-10240 9728 159) (-10240 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104268,7 +104268,7 @@ world
 		{
 			"id" "8483"
 			"plane" "(-10240 8704 160) (-10752 8704 160) (-10752 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -508] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104338,7 +104338,7 @@ world
 		{
 			"id" "8484"
 			"plane" "(-10240 8704 159) (-10752 9216 159) (-10752 8704 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104349,7 +104349,7 @@ world
 		{
 			"id" "8485"
 			"plane" "(-10240 8704 160) (-10240 8704 159) (-10752 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104360,7 +104360,7 @@ world
 		{
 			"id" "8486"
 			"plane" "(-10752 8704 160) (-10752 8704 159) (-10752 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104371,7 +104371,7 @@ world
 		{
 			"id" "8487"
 			"plane" "(-10752 9216 160) (-10752 9216 159) (-10240 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104382,7 +104382,7 @@ world
 		{
 			"id" "8488"
 			"plane" "(-10240 9216 160) (-10240 9216 159) (-10240 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104403,7 +104403,7 @@ world
 		{
 			"id" "8490"
 			"plane" "(-10752 8704 160) (-10240 8704 160) (-10688 8128 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -505] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104473,7 +104473,7 @@ world
 		{
 			"id" "8491"
 			"plane" "(-10752 8704 159) (-10688 8128 159) (-10240 8704 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104484,7 +104484,7 @@ world
 		{
 			"id" "8492"
 			"plane" "(-10752 8704 160) (-10752 8704 159) (-10240 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104495,7 +104495,7 @@ world
 		{
 			"id" "8493"
 			"plane" "(-10240 8704 160) (-10240 8704 159) (-10240 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104506,7 +104506,7 @@ world
 		{
 			"id" "8494"
 			"plane" "(-10240 8192 160) (-10240 8192 159) (-10688 8128 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9899 0.1414 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104517,7 +104517,7 @@ world
 		{
 			"id" "8495"
 			"plane" "(-10688 8128 160) (-10688 8128 159) (-10752 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.1104 -0.9939 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104538,7 +104538,7 @@ world
 		{
 			"id" "8497"
 			"plane" "(-10688 8128 160) (-11264 8192 160) (-10752 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104632,7 +104632,7 @@ world
 		{
 			"id" "8498"
 			"plane" "(-10688 8128 159) (-10752 8704 159) (-11264 8192 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104643,7 +104643,7 @@ world
 		{
 			"id" "8499"
 			"plane" "(-10688 8128 160) (-10688 8128 159) (-11264 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9939 -0.1104 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104654,7 +104654,7 @@ world
 		{
 			"id" "8500"
 			"plane" "(-11264 8192 160) (-11264 8192 159) (-11264 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104665,7 +104665,7 @@ world
 		{
 			"id" "8501"
 			"plane" "(-11264 8704 160) (-11264 8704 159) (-10752 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104676,7 +104676,7 @@ world
 		{
 			"id" "8502"
 			"plane" "(-10752 8704 160) (-10752 8704 159) (-10688 8128 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.1104 0.9939 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104697,7 +104697,7 @@ world
 		{
 			"id" "8504"
 			"plane" "(-9728 9728 160) (-10240 9728 160) (-10240 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -501] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104791,7 +104791,7 @@ world
 		{
 			"id" "8505"
 			"plane" "(-9728 9728 159) (-10240 10240 159) (-10240 9728 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104802,7 +104802,7 @@ world
 		{
 			"id" "8506"
 			"plane" "(-9728 9728 160) (-9728 9728 159) (-10240 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104813,7 +104813,7 @@ world
 		{
 			"id" "8507"
 			"plane" "(-10240 9728 160) (-10240 9728 159) (-10240 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104824,7 +104824,7 @@ world
 		{
 			"id" "8508"
 			"plane" "(-10240 10240 160) (-10240 10240 159) (-9728 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104835,7 +104835,7 @@ world
 		{
 			"id" "8509"
 			"plane" "(-9728 10240 160) (-9728 10240 159) (-9728 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104856,7 +104856,7 @@ world
 		{
 			"id" "8511"
 			"plane" "(-9728 9216 160) (-10240 9216 160) (-10240 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -501] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104926,7 +104926,7 @@ world
 		{
 			"id" "8512"
 			"plane" "(-9728 9216 159) (-10240 9728 159) (-10240 9216 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -104937,7 +104937,7 @@ world
 		{
 			"id" "8513"
 			"plane" "(-9728 9216 160) (-9728 9216 159) (-10240 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104948,7 +104948,7 @@ world
 		{
 			"id" "8514"
 			"plane" "(-10240 9216 160) (-10240 9216 159) (-10240 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104959,7 +104959,7 @@ world
 		{
 			"id" "8515"
 			"plane" "(-10240 9728 160) (-10240 9728 159) (-9728 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -104970,7 +104970,7 @@ world
 		{
 			"id" "8516"
 			"plane" "(-9728 9728 160) (-9728 9728 159) (-9728 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105126,7 +105126,7 @@ world
 		{
 			"id" "8525"
 			"plane" "(-9216 9728 120) (-9728 9728 160) (-9728 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105220,7 +105220,7 @@ world
 		{
 			"id" "8526"
 			"plane" "(-9216.08 9728 119.003) (-9728.08 10240 159.003) (-9728.08 9728 159.003)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105231,7 +105231,7 @@ world
 		{
 			"id" "8527"
 			"plane" "(-9216 9728 120) (-9216.08 9728 119.003) (-9728 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.997 0 -0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105242,7 +105242,7 @@ world
 		{
 			"id" "8528"
 			"plane" "(-9728 9728 160) (-9728.08 9728 159.003) (-9728 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105253,7 +105253,7 @@ world
 		{
 			"id" "8529"
 			"plane" "(-9728 10240 160) (-9728.08 10240 159.003) (-9216 10240 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.997 0 0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105264,7 +105264,7 @@ world
 		{
 			"id" "8530"
 			"plane" "(-9216 10240 120) (-9216.08 10240 119.003) (-9216 9728 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105285,7 +105285,7 @@ world
 		{
 			"id" "8532"
 			"plane" "(-9216 9216 120) (-9728 9216 160) (-9728 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105379,7 +105379,7 @@ world
 		{
 			"id" "8533"
 			"plane" "(-9216.08 9216 119.003) (-9728.08 9728 159.003) (-9728.08 9216 159.003)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105390,7 +105390,7 @@ world
 		{
 			"id" "8534"
 			"plane" "(-9216 9216 120) (-9216.08 9216 119.003) (-9728 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.997 0 -0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105401,7 +105401,7 @@ world
 		{
 			"id" "8535"
 			"plane" "(-9728 9216 160) (-9728.08 9216 159.003) (-9728 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105412,7 +105412,7 @@ world
 		{
 			"id" "8536"
 			"plane" "(-9728 9728 160) (-9728.08 9728 159.003) (-9216 9728 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.997 0 0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105423,7 +105423,7 @@ world
 		{
 			"id" "8537"
 			"plane" "(-9216 9728 120) (-9216.08 9728 119.003) (-9216 9216 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105444,7 +105444,7 @@ world
 		{
 			"id" "8539"
 			"plane" "(-9216 8704 120) (-9728 8704 160) (-9728 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -105538,7 +105538,7 @@ world
 		{
 			"id" "8540"
 			"plane" "(-9216.08 8704 119.003) (-9728.08 9216 159.003) (-9728.08 8704 159.003)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -105549,7 +105549,7 @@ world
 		{
 			"id" "8541"
 			"plane" "(-9216 8704 120) (-9216.08 8704 119.003) (-9728 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.997 0 -0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105560,7 +105560,7 @@ world
 		{
 			"id" "8542"
 			"plane" "(-9728 8704 160) (-9728.08 8704 159.003) (-9728 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105571,7 +105571,7 @@ world
 		{
 			"id" "8543"
 			"plane" "(-9728 9216 160) (-9728.08 9216 159.003) (-9216 9216 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.997 0 0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105582,7 +105582,7 @@ world
 		{
 			"id" "8544"
 			"plane" "(-9216 9216 120) (-9216.08 9216 119.003) (-9216 8704 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -105603,7 +105603,7 @@ world
 		{
 			"id" "8546"
 			"plane" "(-9728 8704 160) (-10240 8704 160) (-10240 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -501] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105673,7 +105673,7 @@ world
 		{
 			"id" "8547"
 			"plane" "(-9728 8704 159) (-10240 9216 159) (-10240 8704 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105684,7 +105684,7 @@ world
 		{
 			"id" "8548"
 			"plane" "(-9728 8704 160) (-9728 8704 159) (-10240 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105695,7 +105695,7 @@ world
 		{
 			"id" "8549"
 			"plane" "(-10240 8704 160) (-10240 8704 159) (-10240 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105706,7 +105706,7 @@ world
 		{
 			"id" "8550"
 			"plane" "(-10240 9216 160) (-10240 9216 159) (-9728 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105717,7 +105717,7 @@ world
 		{
 			"id" "8551"
 			"plane" "(-9728 9216 160) (-9728 9216 159) (-9728 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105738,7 +105738,7 @@ world
 		{
 			"id" "8553"
 			"plane" "(-9728 8192 160) (-10240 8192 160) (-10240 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9965 0 -0.083 -498] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105808,7 +105808,7 @@ world
 		{
 			"id" "8554"
 			"plane" "(-9728 8192 159) (-10240 8704 159) (-10240 8192 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9965 0 0.083 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -105819,7 +105819,7 @@ world
 		{
 			"id" "8555"
 			"plane" "(-9728 8192 160) (-9728 8192 159) (-10240 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105830,7 +105830,7 @@ world
 		{
 			"id" "8556"
 			"plane" "(-10240 8192 160) (-10240 8192 159) (-10240 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105841,7 +105841,7 @@ world
 		{
 			"id" "8557"
 			"plane" "(-10240 8704 160) (-10240 8704 159) (-9728 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -105852,7 +105852,7 @@ world
 		{
 			"id" "8558"
 			"plane" "(-9728 8704 160) (-9728 8704 159) (-9728 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -106683,7 +106683,7 @@ world
 		{
 			"id" "8602"
 			"plane" "(-9216 8192 120) (-9728 8192 160) (-9728 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -106777,7 +106777,7 @@ world
 		{
 			"id" "8603"
 			"plane" "(-9216.08 8192 119.003) (-9728.08 8704 159.003) (-9728.08 8192 159.003)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -106788,7 +106788,7 @@ world
 		{
 			"id" "8604"
 			"plane" "(-9216 8192 120) (-9216.08 8192 119.003) (-9728 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.997 0 -0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -106799,7 +106799,7 @@ world
 		{
 			"id" "8605"
 			"plane" "(-9728 8192 160) (-9728.08 8192 159.003) (-9728 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -106810,7 +106810,7 @@ world
 		{
 			"id" "8606"
 			"plane" "(-9728 8704 160) (-9728.08 8704 159.003) (-9216 8704 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.997 0 0.0779 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -106821,7 +106821,7 @@ world
 		{
 			"id" "8607"
 			"plane" "(-9216 8704 120) (-9216.08 8704 119.003) (-9216 8192 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0779 0 -0.997 0] 0.25"
 			"rotation" "0"
@@ -106842,7 +106842,7 @@ world
 		{
 			"id" "8609"
 			"plane" "(-8704 8192 88) (-9216 8192 120) (-9216 8704 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -106936,7 +106936,7 @@ world
 		{
 			"id" "8610"
 			"plane" "(-8704.06 8192 87.0019) (-9216.06 8704 119.002) (-9216.06 8192 119.002)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -106947,7 +106947,7 @@ world
 		{
 			"id" "8611"
 			"plane" "(-8704 8192 88) (-8704.06 8192 87.0019) (-9216 8192 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9981 0 -0.0624 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -106958,7 +106958,7 @@ world
 		{
 			"id" "8612"
 			"plane" "(-9216 8192 120) (-9216.06 8192 119.002) (-9216 8704 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -106969,7 +106969,7 @@ world
 		{
 			"id" "8613"
 			"plane" "(-9216 8704 120) (-9216.06 8704 119.002) (-8704 8704 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9981 0 0.0624 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -106980,7 +106980,7 @@ world
 		{
 			"id" "8614"
 			"plane" "(-8704 8704 88) (-8704.06 8704 87.0019) (-8704 8192 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -107001,7 +107001,7 @@ world
 		{
 			"id" "8616"
 			"plane" "(-8704 8704 88) (-9216 8704 120) (-9216 9216 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -107071,7 +107071,7 @@ world
 		{
 			"id" "8617"
 			"plane" "(-8704.06 8704 87.0019) (-9216.06 9216 119.002) (-9216.06 8704 119.002)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -107082,7 +107082,7 @@ world
 		{
 			"id" "8618"
 			"plane" "(-8704 8704 88) (-8704.06 8704 87.0019) (-9216 8704 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9981 0 -0.0624 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -107093,7 +107093,7 @@ world
 		{
 			"id" "8619"
 			"plane" "(-9216 8704 120) (-9216.06 8704 119.002) (-9216 9216 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -107104,7 +107104,7 @@ world
 		{
 			"id" "8620"
 			"plane" "(-9216 9216 120) (-9216.06 9216 119.002) (-8704 9216 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9981 0 0.0624 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -107115,7 +107115,7 @@ world
 		{
 			"id" "8621"
 			"plane" "(-8704 9216 88) (-8704.06 9216 87.0019) (-8704 8704 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -107271,7 +107271,7 @@ world
 		{
 			"id" "8630"
 			"plane" "(-8192 8192 32) (-8704 8192 88) (-8704 8704 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -107365,7 +107365,7 @@ world
 		{
 			"id" "8631"
 			"plane" "(-8192.11 8192 31.0059) (-8704.11 8704 87.0059) (-8704.11 8192 87.0059)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -107376,7 +107376,7 @@ world
 		{
 			"id" "8632"
 			"plane" "(-8192 8192 32) (-8192.11 8192 31.0059) (-8704 8192 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9941 0 -0.1087 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107387,7 +107387,7 @@ world
 		{
 			"id" "8633"
 			"plane" "(-8704 8192 88) (-8704.11 8192 87.0059) (-8704 8704 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107398,7 +107398,7 @@ world
 		{
 			"id" "8634"
 			"plane" "(-8704 8704 88) (-8704.11 8704 87.0059) (-8192 8704 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9941 0 0.1087 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107409,7 +107409,7 @@ world
 		{
 			"id" "8635"
 			"plane" "(-8192 8704 32) (-8192.11 8704 31.0059) (-8192 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107430,7 +107430,7 @@ world
 		{
 			"id" "8637"
 			"plane" "(-8704 7680 88) (-8704 8192 88) (-8192 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -107500,7 +107500,7 @@ world
 		{
 			"id" "8638"
 			"plane" "(-8704.11 7680 87.0059) (-8192.11 8192 31.0059) (-8704.11 8192 87.0059)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -107511,7 +107511,7 @@ world
 		{
 			"id" "8639"
 			"plane" "(-8704 7680 88) (-8704.11 7680 87.0059) (-8704 8192 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107522,7 +107522,7 @@ world
 		{
 			"id" "8640"
 			"plane" "(-8704 8192 88) (-8704.11 8192 87.0059) (-8192 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9941 0 0.1087 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107533,7 +107533,7 @@ world
 		{
 			"id" "8641"
 			"plane" "(-8192 8192 32) (-8192.11 8192 31.0059) (-8192 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -107544,7 +107544,7 @@ world
 		{
 			"id" "8642"
 			"plane" "(-8192 7680 32) (-8192.11 7680 31.0059) (-8704 7680 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9941 0 -0.1087 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -109320,7 +109320,7 @@ world
 		{
 			"id" "8735"
 			"plane" "(-7680 8192 32) (-8192 8192 32) (-8192 8704 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -109414,7 +109414,7 @@ world
 		{
 			"id" "8736"
 			"plane" "(-7680 8192 31) (-8192 8704 31) (-8192 8192 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -109425,7 +109425,7 @@ world
 		{
 			"id" "8737"
 			"plane" "(-7680 8192 32) (-7680 8192 31) (-8192 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -109436,7 +109436,7 @@ world
 		{
 			"id" "8738"
 			"plane" "(-8192 8192 32) (-8192 8192 31) (-8192 8704 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -109447,7 +109447,7 @@ world
 		{
 			"id" "8739"
 			"plane" "(-8192 8704 32) (-8192 8704 31) (-7680 8704 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -109458,7 +109458,7 @@ world
 		{
 			"id" "8740"
 			"plane" "(-7680 8704 32) (-7680 8704 31) (-7680 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110424,7 +110424,7 @@ world
 		{
 			"id" "8791"
 			"plane" "(-7680 7680 32) (-8192 7680 32) (-8192 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -110518,7 +110518,7 @@ world
 		{
 			"id" "8792"
 			"plane" "(-7680 7680 31) (-8192 8192 31) (-8192 7680 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -110529,7 +110529,7 @@ world
 		{
 			"id" "8793"
 			"plane" "(-7680 7680 32) (-7680 7680 31) (-8192 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110540,7 +110540,7 @@ world
 		{
 			"id" "8794"
 			"plane" "(-8192 7680 32) (-8192 7680 31) (-8192 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110551,7 +110551,7 @@ world
 		{
 			"id" "8795"
 			"plane" "(-8192 8192 32) (-8192 8192 31) (-7680 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110562,7 +110562,7 @@ world
 		{
 			"id" "8796"
 			"plane" "(-7680 8192 32) (-7680 8192 31) (-7680 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110718,7 +110718,7 @@ world
 		{
 			"id" "8805"
 			"plane" "(-6656 7680 32) (-6656 8192 32) (-6144 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -110788,7 +110788,7 @@ world
 		{
 			"id" "8806"
 			"plane" "(-6656 7680 31) (-6144 8192 31) (-6656 8192 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -110799,7 +110799,7 @@ world
 		{
 			"id" "8807"
 			"plane" "(-6656 7680 32) (-6656 7680 31) (-6656 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110810,7 +110810,7 @@ world
 		{
 			"id" "8808"
 			"plane" "(-6656 8192 32) (-6656 8192 31) (-6144 8192 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110821,7 +110821,7 @@ world
 		{
 			"id" "8809"
 			"plane" "(-6144 8192 32) (-6144 8192 31) (-6144 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110832,7 +110832,7 @@ world
 		{
 			"id" "8810"
 			"plane" "(-6144 7680 32) (-6144 7680 31) (-6656 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110988,7 +110988,7 @@ world
 		{
 			"id" "8819"
 			"plane" "(-7168 7168 32) (-7680 7168 32) (-7680 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -111082,7 +111082,7 @@ world
 		{
 			"id" "8820"
 			"plane" "(-7168 7168 31) (-7680 7680 31) (-7680 7168 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -111093,7 +111093,7 @@ world
 		{
 			"id" "8821"
 			"plane" "(-7168 7168 32) (-7168 7168 31) (-7680 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111104,7 +111104,7 @@ world
 		{
 			"id" "8822"
 			"plane" "(-7680 7168 32) (-7680 7168 31) (-7680 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111115,7 +111115,7 @@ world
 		{
 			"id" "8823"
 			"plane" "(-7680 7680 32) (-7680 7680 31) (-7168 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111126,7 +111126,7 @@ world
 		{
 			"id" "8824"
 			"plane" "(-7168 7680 32) (-7168 7680 31) (-7168 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111147,7 +111147,7 @@ world
 		{
 			"id" "8826"
 			"plane" "(-7680 7168 32) (-8192 7168 32) (-8192 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -111241,7 +111241,7 @@ world
 		{
 			"id" "8827"
 			"plane" "(-7680 7168 31) (-8192 7680 31) (-8192 7168 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -111252,7 +111252,7 @@ world
 		{
 			"id" "8828"
 			"plane" "(-7680 7168 32) (-7680 7168 31) (-8192 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111263,7 +111263,7 @@ world
 		{
 			"id" "8829"
 			"plane" "(-8192 7168 32) (-8192 7168 31) (-8192 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111274,7 +111274,7 @@ world
 		{
 			"id" "8830"
 			"plane" "(-8192 7680 32) (-8192 7680 31) (-7680 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111285,7 +111285,7 @@ world
 		{
 			"id" "8831"
 			"plane" "(-7680 7680 32) (-7680 7680 31) (-7680 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -111711,7 +111711,7 @@ world
 		{
 			"id" "8854"
 			"plane" "(-8704 6656 88) (-9216 6656 120) (-9216 7168 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -111781,7 +111781,7 @@ world
 		{
 			"id" "8855"
 			"plane" "(-8704.06 6656 87.0019) (-9216.06 7168 119.002) (-9216.06 6656 119.002)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -111792,7 +111792,7 @@ world
 		{
 			"id" "8856"
 			"plane" "(-8704 6656 88) (-8704.06 6656 87.0019) (-9216 6656 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9981 0 -0.0624 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -111803,7 +111803,7 @@ world
 		{
 			"id" "8857"
 			"plane" "(-9216 6656 120) (-9216.06 6656 119.002) (-9216 7168 120)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -111814,7 +111814,7 @@ world
 		{
 			"id" "8858"
 			"plane" "(-9216 7168 120) (-9216.06 7168 119.002) (-8704 7168 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9981 0 0.0624 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -111825,7 +111825,7 @@ world
 		{
 			"id" "8859"
 			"plane" "(-8704 7168 88) (-8704.06 7168 87.0019) (-8704 6656 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.0624 0 -0.9981 0] 0.25"
 			"rotation" "0"
@@ -111846,7 +111846,7 @@ world
 		{
 			"id" "8861"
 			"plane" "(-8192 6656 32) (-8704 6656 88) (-8704 7168 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -111916,7 +111916,7 @@ world
 		{
 			"id" "8862"
 			"plane" "(-8192.11 6656 31.0059) (-8704.11 7168 87.0059) (-8704.11 6656 87.0059)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -111927,7 +111927,7 @@ world
 		{
 			"id" "8863"
 			"plane" "(-8192 6656 32) (-8192.11 6656 31.0059) (-8704 6656 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9941 0 -0.1087 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -111938,7 +111938,7 @@ world
 		{
 			"id" "8864"
 			"plane" "(-8704 6656 88) (-8704.11 6656 87.0059) (-8704 7168 88)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -111949,7 +111949,7 @@ world
 		{
 			"id" "8865"
 			"plane" "(-8704 7168 88) (-8704.11 7168 87.0059) (-8192 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9941 0 0.1087 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -111960,7 +111960,7 @@ world
 		{
 			"id" "8866"
 			"plane" "(-8192 7168 32) (-8192.11 7168 31.0059) (-8192 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-0.1087 0 -0.9941 0] 0.25"
 			"rotation" "0"
@@ -111981,7 +111981,7 @@ world
 		{
 			"id" "8868"
 			"plane" "(-7680 6656 32) (-8192 6656 32) (-8192 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112075,7 +112075,7 @@ world
 		{
 			"id" "8869"
 			"plane" "(-7680 6656 31) (-8192 7168 31) (-8192 6656 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112086,7 +112086,7 @@ world
 		{
 			"id" "8870"
 			"plane" "(-7680 6656 32) (-7680 6656 31) (-8192 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112097,7 +112097,7 @@ world
 		{
 			"id" "8871"
 			"plane" "(-8192 6656 32) (-8192 6656 31) (-8192 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112108,7 +112108,7 @@ world
 		{
 			"id" "8872"
 			"plane" "(-8192 7168 32) (-8192 7168 31) (-7680 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112119,7 +112119,7 @@ world
 		{
 			"id" "8873"
 			"plane" "(-7680 7168 32) (-7680 7168 31) (-7680 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112140,7 +112140,7 @@ world
 		{
 			"id" "8875"
 			"plane" "(-7168 6656 32) (-7680 6656 32) (-7680 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112234,7 +112234,7 @@ world
 		{
 			"id" "8876"
 			"plane" "(-7168 6656 31) (-7680 7168 31) (-7680 6656 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112245,7 +112245,7 @@ world
 		{
 			"id" "8877"
 			"plane" "(-7168 6656 32) (-7168 6656 31) (-7680 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112256,7 +112256,7 @@ world
 		{
 			"id" "8878"
 			"plane" "(-7680 6656 32) (-7680 6656 31) (-7680 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112267,7 +112267,7 @@ world
 		{
 			"id" "8879"
 			"plane" "(-7680 7168 32) (-7680 7168 31) (-7168 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112278,7 +112278,7 @@ world
 		{
 			"id" "8880"
 			"plane" "(-7168 7168 32) (-7168 7168 31) (-7168 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112299,7 +112299,7 @@ world
 		{
 			"id" "8882"
 			"plane" "(-6656 6656 32) (-7168 6656 32) (-7168 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112393,7 +112393,7 @@ world
 		{
 			"id" "8883"
 			"plane" "(-6656 6656 31) (-7168 7168 31) (-7168 6656 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112404,7 +112404,7 @@ world
 		{
 			"id" "8884"
 			"plane" "(-6656 6656 32) (-6656 6656 31) (-7168 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112415,7 +112415,7 @@ world
 		{
 			"id" "8885"
 			"plane" "(-7168 6656 32) (-7168 6656 31) (-7168 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112426,7 +112426,7 @@ world
 		{
 			"id" "8886"
 			"plane" "(-7168 7168 32) (-7168 7168 31) (-6656 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112437,7 +112437,7 @@ world
 		{
 			"id" "8887"
 			"plane" "(-6656 7168 32) (-6656 7168 31) (-6656 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112458,7 +112458,7 @@ world
 		{
 			"id" "8889"
 			"plane" "(-7680 6144 32) (-8192 6144 32) (-8192 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112528,7 +112528,7 @@ world
 		{
 			"id" "8890"
 			"plane" "(-7680 6144 31) (-8192 6656 31) (-8192 6144 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112539,7 +112539,7 @@ world
 		{
 			"id" "8891"
 			"plane" "(-7680 6144 32) (-7680 6144 31) (-8192 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112550,7 +112550,7 @@ world
 		{
 			"id" "8892"
 			"plane" "(-8192 6144 32) (-8192 6144 31) (-8192 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112561,7 +112561,7 @@ world
 		{
 			"id" "8893"
 			"plane" "(-8192 6656 32) (-8192 6656 31) (-7680 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112572,7 +112572,7 @@ world
 		{
 			"id" "8894"
 			"plane" "(-7680 6656 32) (-7680 6656 31) (-7680 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112863,7 +112863,7 @@ world
 		{
 			"id" "8910"
 			"plane" "(-6656 7168 32) (-7168 7168 32) (-7168 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112933,7 +112933,7 @@ world
 		{
 			"id" "8911"
 			"plane" "(-6656 7168 31) (-7168 7680 31) (-7168 7168 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -112944,7 +112944,7 @@ world
 		{
 			"id" "8912"
 			"plane" "(-6656 7168 32) (-6656 7168 31) (-7168 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112955,7 +112955,7 @@ world
 		{
 			"id" "8913"
 			"plane" "(-7168 7168 32) (-7168 7168 31) (-7168 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112966,7 +112966,7 @@ world
 		{
 			"id" "8914"
 			"plane" "(-7168 7680 32) (-7168 7680 31) (-6656 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112977,7 +112977,7 @@ world
 		{
 			"id" "8915"
 			"plane" "(-6656 7680 32) (-6656 7680 31) (-6656 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -112998,7 +112998,7 @@ world
 		{
 			"id" "8917"
 			"plane" "(-6144 7168 32) (-6656 7168 32) (-6656 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113068,7 +113068,7 @@ world
 		{
 			"id" "8918"
 			"plane" "(-6144 7168 31) (-6656 7680 31) (-6656 7168 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113079,7 +113079,7 @@ world
 		{
 			"id" "8919"
 			"plane" "(-6144 7168 32) (-6144 7168 31) (-6656 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113090,7 +113090,7 @@ world
 		{
 			"id" "8920"
 			"plane" "(-6656 7168 32) (-6656 7168 31) (-6656 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113101,7 +113101,7 @@ world
 		{
 			"id" "8921"
 			"plane" "(-6656 7680 32) (-6656 7680 31) (-6144 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113112,7 +113112,7 @@ world
 		{
 			"id" "8922"
 			"plane" "(-6144 7680 32) (-6144 7680 31) (-6144 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113133,7 +113133,7 @@ world
 		{
 			"id" "8924"
 			"plane" "(-6144 6656 32) (-6656 6656 32) (-6656 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113227,7 +113227,7 @@ world
 		{
 			"id" "8925"
 			"plane" "(-6144 6656 31) (-6656 7168 31) (-6656 6656 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113238,7 +113238,7 @@ world
 		{
 			"id" "8926"
 			"plane" "(-6144 6656 32) (-6144 6656 31) (-6656 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113249,7 +113249,7 @@ world
 		{
 			"id" "8927"
 			"plane" "(-6656 6656 32) (-6656 6656 31) (-6656 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113260,7 +113260,7 @@ world
 		{
 			"id" "8928"
 			"plane" "(-6656 7168 32) (-6656 7168 31) (-6144 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113271,7 +113271,7 @@ world
 		{
 			"id" "8929"
 			"plane" "(-6144 7168 32) (-6144 7168 31) (-6144 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113292,7 +113292,7 @@ world
 		{
 			"id" "8931"
 			"plane" "(-5632 6656 32) (-6144 6656 32) (-6144 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113386,7 +113386,7 @@ world
 		{
 			"id" "8932"
 			"plane" "(-5632 6656 31) (-6144 7168 31) (-6144 6656 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113397,7 +113397,7 @@ world
 		{
 			"id" "8933"
 			"plane" "(-5632 6656 32) (-5632 6656 31) (-6144 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113408,7 +113408,7 @@ world
 		{
 			"id" "8934"
 			"plane" "(-6144 6656 32) (-6144 6656 31) (-6144 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113419,7 +113419,7 @@ world
 		{
 			"id" "8935"
 			"plane" "(-6144 7168 32) (-6144 7168 31) (-5632 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113430,7 +113430,7 @@ world
 		{
 			"id" "8936"
 			"plane" "(-5632 7168 32) (-5632 7168 31) (-5632 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113586,7 +113586,7 @@ world
 		{
 			"id" "8945"
 			"plane" "(-6144 6144 32) (-6656 6144 32) (-6656 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113656,7 +113656,7 @@ world
 		{
 			"id" "8946"
 			"plane" "(-6144 6144 31) (-6656 6656 31) (-6656 6144 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113667,7 +113667,7 @@ world
 		{
 			"id" "8947"
 			"plane" "(-6144 6144 32) (-6144 6144 31) (-6656 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113678,7 +113678,7 @@ world
 		{
 			"id" "8948"
 			"plane" "(-6656 6144 32) (-6656 6144 31) (-6656 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113689,7 +113689,7 @@ world
 		{
 			"id" "8949"
 			"plane" "(-6656 6656 32) (-6656 6656 31) (-6144 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113700,7 +113700,7 @@ world
 		{
 			"id" "8950"
 			"plane" "(-6144 6656 32) (-6144 6656 31) (-6144 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113721,7 +113721,7 @@ world
 		{
 			"id" "8952"
 			"plane" "(-5632 6144 32) (-6144 6144 32) (-6144 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113815,7 +113815,7 @@ world
 		{
 			"id" "8953"
 			"plane" "(-5632 6144 31) (-6144 6656 31) (-6144 6144 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -113826,7 +113826,7 @@ world
 		{
 			"id" "8954"
 			"plane" "(-5632 6144 32) (-5632 6144 31) (-6144 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113837,7 +113837,7 @@ world
 		{
 			"id" "8955"
 			"plane" "(-6144 6144 32) (-6144 6144 31) (-6144 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113848,7 +113848,7 @@ world
 		{
 			"id" "8956"
 			"plane" "(-6144 6656 32) (-6144 6656 31) (-5632 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113859,7 +113859,7 @@ world
 		{
 			"id" "8957"
 			"plane" "(-5632 6656 32) (-5632 6656 31) (-5632 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114285,7 +114285,7 @@ world
 		{
 			"id" "8980"
 			"plane" "(-5632 5632 32) (-6144 5632 32) (-6144 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -114355,7 +114355,7 @@ world
 		{
 			"id" "8981"
 			"plane" "(-5632 5632 31) (-6144 6144 31) (-6144 5632 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -114366,7 +114366,7 @@ world
 		{
 			"id" "8982"
 			"plane" "(-5632 5632 32) (-5632 5632 31) (-6144 5632 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114377,7 +114377,7 @@ world
 		{
 			"id" "8983"
 			"plane" "(-6144 5632 32) (-6144 5632 31) (-6144 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114388,7 +114388,7 @@ world
 		{
 			"id" "8984"
 			"plane" "(-6144 6144 32) (-6144 6144 31) (-5632 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114399,7 +114399,7 @@ world
 		{
 			"id" "8985"
 			"plane" "(-5632 6144 32) (-5632 6144 31) (-5632 5632 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116247,7 +116247,7 @@ world
 		{
 			"id" "9078"
 			"plane" "(-5312 7168 32) (-5632 7168 32) (-5632 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116341,7 +116341,7 @@ world
 		{
 			"id" "9079"
 			"plane" "(-5312 7168 31) (-5632 7680 31) (-5632 7168 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116352,7 +116352,7 @@ world
 		{
 			"id" "9080"
 			"plane" "(-5312 7168 32) (-5312 7168 31) (-5632 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116363,7 +116363,7 @@ world
 		{
 			"id" "9081"
 			"plane" "(-5632 7168 32) (-5632 7168 31) (-5632 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116374,7 +116374,7 @@ world
 		{
 			"id" "9082"
 			"plane" "(-5632 7680 32) (-5632 7680 31) (-5312 7680 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116385,7 +116385,7 @@ world
 		{
 			"id" "9083"
 			"plane" "(-5312 7680 32) (-5312 7680 31) (-5312 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116406,7 +116406,7 @@ world
 		{
 			"id" "9085"
 			"plane" "(-5312 6656 32) (-5632 6656 32) (-5632 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116500,7 +116500,7 @@ world
 		{
 			"id" "9086"
 			"plane" "(-5312 6656 31) (-5632 7168 31) (-5632 6656 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116511,7 +116511,7 @@ world
 		{
 			"id" "9087"
 			"plane" "(-5312 6656 32) (-5312 6656 31) (-5632 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116522,7 +116522,7 @@ world
 		{
 			"id" "9088"
 			"plane" "(-5632 6656 32) (-5632 6656 31) (-5632 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116533,7 +116533,7 @@ world
 		{
 			"id" "9089"
 			"plane" "(-5632 7168 32) (-5632 7168 31) (-5312 7168 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116544,7 +116544,7 @@ world
 		{
 			"id" "9090"
 			"plane" "(-5312 7168 32) (-5312 7168 31) (-5312 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116565,7 +116565,7 @@ world
 		{
 			"id" "9092"
 			"plane" "(-5312 6144 32) (-5632 6144 32) (-5632 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116659,7 +116659,7 @@ world
 		{
 			"id" "9093"
 			"plane" "(-5312 6144 31) (-5632 6656 31) (-5632 6144 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116670,7 +116670,7 @@ world
 		{
 			"id" "9094"
 			"plane" "(-5312 6144 32) (-5312 6144 31) (-5632 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116681,7 +116681,7 @@ world
 		{
 			"id" "9095"
 			"plane" "(-5632 6144 32) (-5632 6144 31) (-5632 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116692,7 +116692,7 @@ world
 		{
 			"id" "9096"
 			"plane" "(-5632 6656 32) (-5632 6656 31) (-5312 6656 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116703,7 +116703,7 @@ world
 		{
 			"id" "9097"
 			"plane" "(-5312 6656 32) (-5312 6656 31) (-5312 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116724,7 +116724,7 @@ world
 		{
 			"id" "9099"
 			"plane" "(-5312 5632 32) (-5632 5632 32) (-5632 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116818,7 +116818,7 @@ world
 		{
 			"id" "9100"
 			"plane" "(-5312 5632 31) (-5632 6144 31) (-5632 5632 31)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -116829,7 +116829,7 @@ world
 		{
 			"id" "9101"
 			"plane" "(-5312 5632 32) (-5312 5632 31) (-5632 5632 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116840,7 +116840,7 @@ world
 		{
 			"id" "9102"
 			"plane" "(-5632 5632 32) (-5632 5632 31) (-5632 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116851,7 +116851,7 @@ world
 		{
 			"id" "9103"
 			"plane" "(-5632 6144 32) (-5632 6144 31) (-5312 6144 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -116862,7 +116862,7 @@ world
 		{
 			"id" "9104"
 			"plane" "(-5312 6144 32) (-5312 6144 31) (-5312 5632 32)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -118917,7 +118917,7 @@ world
 		{
 			"id" "9204"
 			"plane" "(-11776 10240 160) (-11904 10240 160) (-11904 10752 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -118987,7 +118987,7 @@ world
 		{
 			"id" "9205"
 			"plane" "(-11776 10240 159) (-11904 10752 159) (-11904 10240 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -118998,7 +118998,7 @@ world
 		{
 			"id" "9206"
 			"plane" "(-11776 10240 160) (-11776 10240 159) (-11904 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119009,7 +119009,7 @@ world
 		{
 			"id" "9207"
 			"plane" "(-11904 10240 160) (-11904 10240 159) (-11904 10752 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119020,7 +119020,7 @@ world
 		{
 			"id" "9208"
 			"plane" "(-11904 10752 160) (-11904 10752 159) (-11776 10752 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119031,7 +119031,7 @@ world
 		{
 			"id" "9209"
 			"plane" "(-11776 10752 160) (-11776 10752 159) (-11776 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119052,7 +119052,7 @@ world
 		{
 			"id" "9211"
 			"plane" "(-11776 9728 160) (-11904 9728 160) (-11904 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -119122,7 +119122,7 @@ world
 		{
 			"id" "9212"
 			"plane" "(-11776 9728 159) (-11904 10240 159) (-11904 9728 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -119133,7 +119133,7 @@ world
 		{
 			"id" "9213"
 			"plane" "(-11776 9728 160) (-11776 9728 159) (-11904 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119144,7 +119144,7 @@ world
 		{
 			"id" "9214"
 			"plane" "(-11904 9728 160) (-11904 9728 159) (-11904 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119155,7 +119155,7 @@ world
 		{
 			"id" "9215"
 			"plane" "(-11904 10240 160) (-11904 10240 159) (-11776 10240 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119166,7 +119166,7 @@ world
 		{
 			"id" "9216"
 			"plane" "(-11776 10240 160) (-11776 10240 159) (-11776 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119187,7 +119187,7 @@ world
 		{
 			"id" "9218"
 			"plane" "(-11776 9216 160) (-11904 9216 160) (-11904 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -119257,7 +119257,7 @@ world
 		{
 			"id" "9219"
 			"plane" "(-11776 9216 159) (-11904 9728 159) (-11904 9216 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -119268,7 +119268,7 @@ world
 		{
 			"id" "9220"
 			"plane" "(-11776 9216 160) (-11776 9216 159) (-11904 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119279,7 +119279,7 @@ world
 		{
 			"id" "9221"
 			"plane" "(-11904 9216 160) (-11904 9216 159) (-11904 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119290,7 +119290,7 @@ world
 		{
 			"id" "9222"
 			"plane" "(-11904 9728 160) (-11904 9728 159) (-11776 9728 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119301,7 +119301,7 @@ world
 		{
 			"id" "9223"
 			"plane" "(-11776 9728 160) (-11776 9728 159) (-11776 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119640,7 +119640,7 @@ world
 		{
 			"id" "9239"
 			"plane" "(-11776 8704 160) (-11904 8704 160) (-11904 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -119734,7 +119734,7 @@ world
 		{
 			"id" "9240"
 			"plane" "(-11776 8704 159) (-11904 9216 159) (-11904 8704 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -119745,7 +119745,7 @@ world
 		{
 			"id" "9241"
 			"plane" "(-11776 8704 160) (-11776 8704 159) (-11904 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119756,7 +119756,7 @@ world
 		{
 			"id" "9242"
 			"plane" "(-11904 8704 160) (-11904 8704 159) (-11904 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119767,7 +119767,7 @@ world
 		{
 			"id" "9243"
 			"plane" "(-11904 9216 160) (-11904 9216 159) (-11776 9216 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119778,7 +119778,7 @@ world
 		{
 			"id" "9244"
 			"plane" "(-11776 9216 160) (-11776 9216 159) (-11776 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119799,7 +119799,7 @@ world
 		{
 			"id" "9246"
 			"plane" "(-11776 10752 160) (-11904 10752 160) (-11904 11264 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -119869,7 +119869,7 @@ world
 		{
 			"id" "9247"
 			"plane" "(-11776 10752 159) (-11904 11264 159) (-11904 10752 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -119880,7 +119880,7 @@ world
 		{
 			"id" "9248"
 			"plane" "(-11776 10752 160) (-11776 10752 159) (-11904 10752 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119891,7 +119891,7 @@ world
 		{
 			"id" "9249"
 			"plane" "(-11904 10752 160) (-11904 10752 159) (-11904 11264 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119902,7 +119902,7 @@ world
 		{
 			"id" "9250"
 			"plane" "(-11904 11264 160) (-11904 11264 159) (-11776 11264 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -119913,7 +119913,7 @@ world
 		{
 			"id" "9251"
 			"plane" "(-11776 11264 160) (-11776 11264 159) (-11776 10752 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120093,7 +120093,7 @@ world
 		{
 			"id" "9260"
 			"plane" "(-11776 8192 160) (-11904 8192 160) (-11904 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -120187,7 +120187,7 @@ world
 		{
 			"id" "9261"
 			"plane" "(-11776 8192 159) (-11904 8704 159) (-11904 8192 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -120198,7 +120198,7 @@ world
 		{
 			"id" "9262"
 			"plane" "(-11776 8192 160) (-11776 8192 159) (-11904 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120209,7 +120209,7 @@ world
 		{
 			"id" "9263"
 			"plane" "(-11904 8192 160) (-11904 8192 159) (-11904 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120220,7 +120220,7 @@ world
 		{
 			"id" "9264"
 			"plane" "(-11904 8704 160) (-11904 8704 159) (-11776 8704 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120231,7 +120231,7 @@ world
 		{
 			"id" "9265"
 			"plane" "(-11776 8704 160) (-11776 8704 159) (-11776 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120252,7 +120252,7 @@ world
 		{
 			"id" "9267"
 			"plane" "(-11776 7680 160) (-11904 7680 160) (-11904 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -120346,7 +120346,7 @@ world
 		{
 			"id" "9268"
 			"plane" "(-11776 7680 159) (-11904 8192 159) (-11904 7680 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -120357,7 +120357,7 @@ world
 		{
 			"id" "9269"
 			"plane" "(-11776 7680 160) (-11776 7680 159) (-11904 7680 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120368,7 +120368,7 @@ world
 		{
 			"id" "9270"
 			"plane" "(-11904 7680 160) (-11904 7680 159) (-11904 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120379,7 +120379,7 @@ world
 		{
 			"id" "9271"
 			"plane" "(-11904 8192 160) (-11904 8192 159) (-11776 8192 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120390,7 +120390,7 @@ world
 		{
 			"id" "9272"
 			"plane" "(-11776 8192 160) (-11776 8192 159) (-11776 7680 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127479,7 +127479,7 @@ world
 		{
 			"id" "9638"
 			"plane" "(-2560 320 256) (-2560 832 256) (-2112 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127549,7 +127549,7 @@ world
 		{
 			"id" "9639"
 			"plane" "(-2560 320 255) (-2112 832 255) (-2560 832 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127560,7 +127560,7 @@ world
 		{
 			"id" "9640"
 			"plane" "(-2560 320 256) (-2560 320 255) (-2560 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127571,7 +127571,7 @@ world
 		{
 			"id" "9641"
 			"plane" "(-2560 832 256) (-2560 832 255) (-2112 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127582,7 +127582,7 @@ world
 		{
 			"id" "9642"
 			"plane" "(-2112 832 256) (-2112 832 255) (-2112 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127593,7 +127593,7 @@ world
 		{
 			"id" "9643"
 			"plane" "(-2112 320 256) (-2112 320 255) (-2560 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127614,7 +127614,7 @@ world
 		{
 			"id" "9645"
 			"plane" "(-2560 832 64) (-2112 832 64) (-2112 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127684,7 +127684,7 @@ world
 		{
 			"id" "9646"
 			"plane" "(-2560 831 64) (-2112 831 256) (-2112 831 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127695,7 +127695,7 @@ world
 		{
 			"id" "9647"
 			"plane" "(-2560 832 64) (-2560 831 64) (-2112 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127706,7 +127706,7 @@ world
 		{
 			"id" "9648"
 			"plane" "(-2112 832 64) (-2112 831 64) (-2112 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127717,7 +127717,7 @@ world
 		{
 			"id" "9649"
 			"plane" "(-2112 832 256) (-2112 831 256) (-2560 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127728,7 +127728,7 @@ world
 		{
 			"id" "9650"
 			"plane" "(-2560 832 256) (-2560 831 256) (-2560 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127749,7 +127749,7 @@ world
 		{
 			"id" "9652"
 			"plane" "(-2112 320 256) (-2112 832 256) (-1664 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127819,7 +127819,7 @@ world
 		{
 			"id" "9653"
 			"plane" "(-2112 320 255) (-1664 832 255) (-2112 832 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127830,7 +127830,7 @@ world
 		{
 			"id" "9654"
 			"plane" "(-2112 320 256) (-2112 320 255) (-2112 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127841,7 +127841,7 @@ world
 		{
 			"id" "9655"
 			"plane" "(-2112 832 256) (-2112 832 255) (-1664 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127852,7 +127852,7 @@ world
 		{
 			"id" "9656"
 			"plane" "(-1664 832 256) (-1664 832 255) (-1664 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127863,7 +127863,7 @@ world
 		{
 			"id" "9657"
 			"plane" "(-1664 320 256) (-1664 320 255) (-2112 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127884,7 +127884,7 @@ world
 		{
 			"id" "9659"
 			"plane" "(-2112 832 64) (-1664 832 64) (-1664 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127954,7 +127954,7 @@ world
 		{
 			"id" "9660"
 			"plane" "(-2112 831 64) (-1664 831 256) (-1664 831 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127965,7 +127965,7 @@ world
 		{
 			"id" "9661"
 			"plane" "(-2112 832 64) (-2112 831 64) (-1664 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127976,7 +127976,7 @@ world
 		{
 			"id" "9662"
 			"plane" "(-1664 832 64) (-1664 831 64) (-1664 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127987,7 +127987,7 @@ world
 		{
 			"id" "9663"
 			"plane" "(-1664 832 256) (-1664 831 256) (-2112 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -127998,7 +127998,7 @@ world
 		{
 			"id" "9664"
 			"plane" "(-2112 832 256) (-2112 831 256) (-2112 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -128019,7 +128019,7 @@ world
 		{
 			"id" "9666"
 			"plane" "(-1664 320 256) (-1664 832 256) (-1216 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -128089,7 +128089,7 @@ world
 		{
 			"id" "9667"
 			"plane" "(-1664 320 255) (-1216 832 255) (-1664 832 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -128100,7 +128100,7 @@ world
 		{
 			"id" "9668"
 			"plane" "(-1664 320 256) (-1664 320 255) (-1664 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -128111,7 +128111,7 @@ world
 		{
 			"id" "9669"
 			"plane" "(-1664 832 256) (-1664 832 255) (-1216 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -128122,7 +128122,7 @@ world
 		{
 			"id" "9670"
 			"plane" "(-1216 832 256) (-1216 832 255) (-1216 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -128133,7 +128133,7 @@ world
 		{
 			"id" "9671"
 			"plane" "(-1216 320 256) (-1216 320 255) (-1664 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -128154,7 +128154,7 @@ world
 		{
 			"id" "9673"
 			"plane" "(-1664 832 64) (-1216 832 64) (-1216 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 1 -256] 0.25"
 			"rotation" "0"
@@ -128224,7 +128224,7 @@ world
 		{
 			"id" "9674"
 			"plane" "(-1664 831 64) (-1216 831 256) (-1216 831 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 1 -256] 0.25"
 			"rotation" "0"
@@ -128235,7 +128235,7 @@ world
 		{
 			"id" "9675"
 			"plane" "(-1664 832 64) (-1664 831 64) (-1216 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -128246,7 +128246,7 @@ world
 		{
 			"id" "9676"
 			"plane" "(-1216 832 64) (-1216 831 64) (-1216 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -128257,7 +128257,7 @@ world
 		{
 			"id" "9677"
 			"plane" "(-1216 832 256) (-1216 831 256) (-1664 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -128268,7 +128268,7 @@ world
 		{
 			"id" "9678"
 			"plane" "(-1664 832 256) (-1664 831 256) (-1664 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129099,7 +129099,7 @@ world
 		{
 			"id" "9722"
 			"plane" "(-3776 224 256) (-3936 704 256) (-3200 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129169,7 +129169,7 @@ world
 		{
 			"id" "9723"
 			"plane" "(-3776 224 255) (-3200 832 255) (-3936 704 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129180,7 +129180,7 @@ world
 		{
 			"id" "9724"
 			"plane" "(-3776 224 256) (-3776 224 255) (-3936 704 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.3162 -0.9487 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129191,7 +129191,7 @@ world
 		{
 			"id" "9725"
 			"plane" "(-3936 704 256) (-3936 704 255) (-3200 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9852 -0.1713 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129202,7 +129202,7 @@ world
 		{
 			"id" "9726"
 			"plane" "(-3200 832 256) (-3200 832 255) (-3200 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129213,7 +129213,7 @@ world
 		{
 			"id" "9727"
 			"plane" "(-3200 320 256) (-3200 320 255) (-3776 224 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9864 0.1644 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129234,7 +129234,7 @@ world
 		{
 			"id" "9729"
 			"plane" "(-3936 704 64) (-3200 832 64) (-3200 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129304,7 +129304,7 @@ world
 		{
 			"id" "9730"
 			"plane" "(-3935.83 703.015 64) (-3199.83 831.015 256) (-3199.83 831.015 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129315,7 +129315,7 @@ world
 		{
 			"id" "9731"
 			"plane" "(-3936 704 64) (-3935.83 703.015 64) (-3200 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9852 -0.1713 0 0] 0.25"
 			"vaxis" "[0.1713 -0.9852 0 0] 0.25"
 			"rotation" "0"
@@ -129326,7 +129326,7 @@ world
 		{
 			"id" "9732"
 			"plane" "(-3200 832 64) (-3199.83 831.015 64) (-3200 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0.1713 -0.9852 0 0] 0.25"
 			"rotation" "0"
@@ -129337,7 +129337,7 @@ world
 		{
 			"id" "9733"
 			"plane" "(-3200 832 256) (-3199.83 831.015 256) (-3936 704 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9852 0.1713 0 0] 0.25"
 			"vaxis" "[0.1713 -0.9852 0 0] 0.25"
 			"rotation" "0"
@@ -129348,7 +129348,7 @@ world
 		{
 			"id" "9734"
 			"plane" "(-3936 704 256) (-3935.83 703.015 256) (-3936 704 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0.1713 -0.9852 0 0] 0.25"
 			"rotation" "0"
@@ -129369,7 +129369,7 @@ world
 		{
 			"id" "9736"
 			"plane" "(-3200 320 256) (-3200 832 256) (-2752 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129439,7 +129439,7 @@ world
 		{
 			"id" "9737"
 			"plane" "(-3200 320 255) (-2752 832 255) (-3200 832 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129450,7 +129450,7 @@ world
 		{
 			"id" "9738"
 			"plane" "(-3200 320 256) (-3200 320 255) (-3200 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129461,7 +129461,7 @@ world
 		{
 			"id" "9739"
 			"plane" "(-3200 832 256) (-3200 832 255) (-2752 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129472,7 +129472,7 @@ world
 		{
 			"id" "9740"
 			"plane" "(-2752 832 256) (-2752 832 255) (-2752 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129483,7 +129483,7 @@ world
 		{
 			"id" "9741"
 			"plane" "(-2752 320 256) (-2752 320 255) (-3200 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129504,7 +129504,7 @@ world
 		{
 			"id" "9743"
 			"plane" "(-3200 832 64) (-2752 832 64) (-2752 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129574,7 +129574,7 @@ world
 		{
 			"id" "9744"
 			"plane" "(-3200 831 64) (-2752 831 256) (-2752 831 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129585,7 +129585,7 @@ world
 		{
 			"id" "9745"
 			"plane" "(-3200 832 64) (-3200 831 64) (-2752 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129596,7 +129596,7 @@ world
 		{
 			"id" "9746"
 			"plane" "(-2752 832 64) (-2752 831 64) (-2752 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129607,7 +129607,7 @@ world
 		{
 			"id" "9747"
 			"plane" "(-2752 832 256) (-2752 831 256) (-3200 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129618,7 +129618,7 @@ world
 		{
 			"id" "9748"
 			"plane" "(-3200 832 256) (-3200 831 256) (-3200 832 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129639,7 +129639,7 @@ world
 		{
 			"id" "9750"
 			"plane" "(-4288 -32.0008 256) (-4608 384 256) (-3936 704 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129709,7 +129709,7 @@ world
 		{
 			"id" "9751"
 			"plane" "(-4288 -32.0008 255) (-3936 704 255) (-4608 384 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -129720,7 +129720,7 @@ world
 		{
 			"id" "9752"
 			"plane" "(-4288 -32.0008 256) (-4288 -32.0008 255) (-4608 384 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.6097 -0.7926 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129731,7 +129731,7 @@ world
 		{
 			"id" "9753"
 			"plane" "(-4608 384 256) (-4608 384 255) (-3936 704 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9029 -0.4299 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129742,7 +129742,7 @@ world
 		{
 			"id" "9754"
 			"plane" "(-3936 704 256) (-3936 704 255) (-3776 224 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.3162 0.9487 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129753,7 +129753,7 @@ world
 		{
 			"id" "9755"
 			"plane" "(-3776 224 256) (-3776 224 255) (-4288 -32.0008 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.8944 0.4472 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129774,7 +129774,7 @@ world
 		{
 			"id" "9757"
 			"plane" "(-4608 384 64) (-3936 704 256) (-4608 384 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129844,7 +129844,7 @@ world
 		{
 			"id" "9758"
 			"plane" "(-4607.57 383.097 64) (-4607.57 383.097 256) (-3935.57 703.097 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -129855,7 +129855,7 @@ world
 		{
 			"id" "9759"
 			"plane" "(-4608 384 64) (-4607.57 383.097 64) (-3936 704 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-0.9029 -0.4299 0 0] 0.25"
 			"vaxis" "[0.4299 -0.9029 0 0] 0.25"
 			"rotation" "0"
@@ -129866,7 +129866,7 @@ world
 		{
 			"id" "9760"
 			"plane" "(-3936 704 64) (-3935.57 703.097 64) (-3936 704 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0.4299 -0.9029 0 0] 0.25"
 			"rotation" "0"
@@ -129877,7 +129877,7 @@ world
 		{
 			"id" "9761"
 			"plane" "(-3936 704 256) (-3935.57 703.097 256) (-4608 384 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0.9029 0.4299 0 0] 0.25"
 			"vaxis" "[0.4299 -0.9029 0 0] 0.25"
 			"rotation" "0"
@@ -129888,7 +129888,7 @@ world
 		{
 			"id" "9762"
 			"plane" "(-4608 384 256) (-4607.57 383.097 256) (-4608 384 64)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0.4299 -0.9029 0 0] 0.25"
 			"rotation" "0"
@@ -139788,7 +139788,7 @@ world
 		{
 			"id" "10275"
 			"plane" "(-2752 320 256) (-2752 832 256) (-2560 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139858,7 +139858,7 @@ world
 		{
 			"id" "10276"
 			"plane" "(-2752 320 255) (-2560 832 255) (-2752 832 255)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139869,7 +139869,7 @@ world
 		{
 			"id" "10277"
 			"plane" "(-2752 320 256) (-2752 320 255) (-2752 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139880,7 +139880,7 @@ world
 		{
 			"id" "10278"
 			"plane" "(-2752 832 256) (-2752 832 255) (-2560 832 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139891,7 +139891,7 @@ world
 		{
 			"id" "10279"
 			"plane" "(-2560 832 256) (-2560 832 255) (-2560 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139902,7 +139902,7 @@ world
 		{
 			"id" "10280"
 			"plane" "(-2560 320 256) (-2560 320 255) (-2752 320 256)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -156393,7 +156393,7 @@ world
 		{
 			"id" "11136"
 			"plane" "(-11776 11264 160) (-11904 11264 160) (-11904 12288 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -156463,7 +156463,7 @@ world
 		{
 			"id" "11137"
 			"plane" "(-11776 11264 159) (-11904 12288 159) (-11904 11264 159)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -156474,7 +156474,7 @@ world
 		{
 			"id" "11138"
 			"plane" "(-11776 11264 160) (-11776 11264 159) (-11904 11264 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -156485,7 +156485,7 @@ world
 		{
 			"id" "11139"
 			"plane" "(-11904 11264 160) (-11904 11264 159) (-11904 12288 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -156496,7 +156496,7 @@ world
 		{
 			"id" "11140"
 			"plane" "(-11904 12288 160) (-11904 12288 159) (-11776 12288 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -156507,7 +156507,7 @@ world
 		{
 			"id" "11141"
 			"plane" "(-11776 12288 160) (-11776 12288 159) (-11776 11264 160)"
-			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY"
+			"material" "NATURE/BLEND_GRASS_GRAVEL_01_LOWDENSITY2"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -377924,8 +377924,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-12361.1 9643.81 1304.89]"
-		"look" "[-12304.4 9827.01 1062.92]"
+		"position" "[-11392.3 9308.78 965.18]"
+		"look" "[-11303 9439.23 699.972]"
 	}
 }
 cordons
