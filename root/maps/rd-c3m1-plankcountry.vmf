@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "482"
+	"mapversion" "483"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "482"
+	"mapversion" "483"
 	"classname" "worldspawn"
 	"coldworld" "0"
 	"comment" "Decompiled by BSPSource v1.4.7 from c3m1_plankcountry"
@@ -107140,7 +107140,7 @@ world
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 			dispinfo
 			{
@@ -187981,7 +187981,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-7956 7812 37.2465"
+	"origin" "-7956 7814 16"
 	editor
 	{
 		"color" "255 255 0"
@@ -188553,7 +188553,7 @@ entity
 	"solid" "6"
 	"spawnflags" "256"
 	"StartDisabled" "0"
-	"origin" "-6985 6855.84 428"
+	"origin" "-6977 6855.84 504"
 	editor
 	{
 		"color" "220 30 220"
@@ -326563,6 +326563,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "1"
+	"lightingorigin" "sprp_lighting_0"
 	"maxcpulevel" "0"
 	"maxgpulevel" "0"
 	"mincpulevel" "0"
@@ -342667,7 +342668,7 @@ entity
 	"id" "24885"
 	"classname" "info_lighting"
 	"targetname" "sprp_lighting_0"
-	"origin" "-8608 7456 144"
+	"origin" "-9045 8422 144"
 	editor
 	{
 		"color" "220 30 220"
@@ -354763,7 +354764,7 @@ entity
 	"angles" "0 0 0"
 	"nodeid" "293"
 	"spawnflags" "0"
-	"origin" "-3548 6904.24 36.791"
+	"origin" "-3544 6904.24 -1"
 	editor
 	{
 		"color" "8 64 232"
@@ -354779,7 +354780,7 @@ entity
 	"angles" "0 0 0"
 	"nodeid" "294"
 	"spawnflags" "0"
-	"origin" "-3409 7114.06 36.791"
+	"origin" "-3409 7116 26"
 	editor
 	{
 		"color" "8 64 232"
@@ -374327,7 +374328,7 @@ entity
 	"id" "3431156"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3551.29 6787.48 43.7569"
+	"origin" "-3551.29 6782 -10"
 	editor
 	{
 		"color" "8 64 232"
@@ -374341,7 +374342,7 @@ entity
 	"id" "3431158"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3510.98 6765.89 43.7571"
+	"origin" "-3510.98 6765 -2"
 	editor
 	{
 		"color" "8 64 232"
@@ -374355,7 +374356,7 @@ entity
 	"id" "3431160"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3436.99 6908.88 43.7569"
+	"origin" "-3435 6908.88 10"
 	editor
 	{
 		"color" "8 64 232"
@@ -374369,7 +374370,7 @@ entity
 	"id" "3431162"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3477.52 6936.37 43.757"
+	"origin" "-3480 6936.37 11"
 	editor
 	{
 		"color" "8 64 232"
@@ -374383,7 +374384,7 @@ entity
 	"id" "3431164"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3404.24 7006.34 43.7569"
+	"origin" "-3404.24 7003 19"
 	editor
 	{
 		"color" "8 64 232"
@@ -374397,7 +374398,7 @@ entity
 	"id" "3431166"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3365.82 7076.67 43.757"
+	"origin" "-3365.82 7079 24"
 	editor
 	{
 		"color" "8 64 232"
@@ -374411,7 +374412,7 @@ entity
 	"id" "3431168"
 	"classname" "info_marine_hint"
 	"angles" "0 0 0"
-	"origin" "-3361.98 7151.41 42.36"
+	"origin" "-3362 7151.41 34"
 	editor
 	{
 		"color" "8 64 232"
@@ -377924,8 +377925,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-11392.3 9308.78 965.18]"
-		"look" "[-11303 9439.23 699.972]"
+		"position" "[-2524.72 7812.16 669.38]"
+		"look" "[-2821.92 7895.11 658.598]"
 	}
 }
 cordons
