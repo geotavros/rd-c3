@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "283"
+	"mapversion" "284"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "283"
+	"mapversion" "284"
 	"classname" "worldspawn"
 	"coldworld" "0"
 	"comment" "Decompiled by BSPSource v1.4.7 from c3m2_swamp"
@@ -130542,70 +130542,6 @@ entity
 }
 entity
 {
-	"id" "11519"
-	"classname" "prop_static"
-	"angles" "0 270.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium_grnd01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-6011.78 5102.99 -6.75"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8000 -13768]"
-	}
-}
-entity
-{
-	"id" "11520"
-	"classname" "prop_static"
-	"angles" "0 0 90"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_fallentree_dry01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-6268 4672 -10.75"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8000 -13268]"
-	}
-}
-entity
-{
 	"id" "11521"
 	"classname" "prop_static"
 	"angles" "0 0 90"
@@ -131598,38 +131534,6 @@ entity
 }
 entity
 {
-	"id" "11552"
-	"classname" "prop_static"
-	"angles" "0 0 90"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_fallentree_dry01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-6076 4564 -0.7382"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8500 3000]"
-	}
-}
-entity
-{
 	"id" "11553"
 	"classname" "prop_static"
 	"angles" "0 30.79 0"
@@ -132298,38 +132202,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 13500]"
-	}
-}
-entity
-{
-	"id" "11574"
-	"classname" "prop_static"
-	"angles" "0 60.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium_grnd01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5504 4768 -2.3853"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8500 14000]"
 	}
 }
 entity
@@ -133230,38 +133102,6 @@ entity
 }
 entity
 {
-	"id" "11603"
-	"classname" "prop_static"
-	"angles" "0 240.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium_grnd01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4907.79 4776 -2.3853"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[8500 -4268]"
-	}
-}
-entity
-{
 	"id" "11604"
 	"classname" "prop_static"
 	"angles" "0 195.79 0"
@@ -133610,38 +133450,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 1500]"
-	}
-}
-entity
-{
-	"id" "11615"
-	"classname" "prop_static"
-	"angles" "0 0 90"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_fallentree_dry01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-6775.77 4990.18 -4.9988"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[9000 2000]"
 	}
 }
 entity
@@ -137301,70 +137109,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 -6268]"
-	}
-}
-entity
-{
-	"id" "11730"
-	"classname" "prop_static"
-	"angles" "0 163.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "5464 1524 -33.0965"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[9500 -5768]"
-	}
-}
-entity
-{
-	"id" "11731"
-	"classname" "prop_static"
-	"angles" "0 0 90"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_fallentree_dry01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "5696 1280 -17.0965"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[9500 -5268]"
 	}
 }
 entity
@@ -188711,8 +188455,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1571.96 2728.63 251.217]"
-		"look" "[-1579.54 2909.47 55.7556]"
+		"position" "[-6982.06 5179.86 180.758]"
+		"look" "[-7235.93 5260.39 186.337]"
 	}
 	camera
 	{

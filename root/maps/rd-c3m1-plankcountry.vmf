@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "490"
+	"mapversion" "497"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "490"
+	"mapversion" "497"
 	"classname" "worldspawn"
 	"coldworld" "0"
 	"comment" "Decompiled by BSPSource v1.4.7 from c3m1_plankcountry"
@@ -177662,24 +177662,32 @@ entity
 entity
 {
 	"id" "1530916"
-	"classname" "prop_static"
+	"classname" "prop_physics_override"
 	"angles" "0 180 0"
-	"disableselfshadowing" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
 	"disableshadows" "1"
-	"disablevertexlighting" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"ignorenormals" "0"
+	"forcetoenablemotion" "0"
+	"health" "5"
+	"inertiaScale" "1.0"
+	"massScale" "0"
+	"minhealthdmg" "0"
 	"model" "models/props_windows/window_farmhouse_big.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
+	"nodamageforces" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
 	"skin" "0"
-	"solid" "6"
+	"spawnflags" "264"
 	"origin" "-812 7648 202"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -6768]"
@@ -177688,24 +177696,32 @@ entity
 entity
 {
 	"id" "1530932"
-	"classname" "prop_static"
+	"classname" "prop_physics_override"
 	"angles" "0 180 0"
-	"disableselfshadowing" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
 	"disableshadows" "1"
-	"disablevertexlighting" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"ignorenormals" "0"
+	"forcetoenablemotion" "0"
+	"health" "5"
+	"inertiaScale" "1.0"
+	"massScale" "0"
+	"minhealthdmg" "0"
 	"model" "models/props_windows/window_farmhouse_big.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
+	"nodamageforces" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
 	"skin" "0"
-	"solid" "6"
+	"spawnflags" "264"
 	"origin" "-812 7432 202"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -6268]"
@@ -292516,68 +292532,6 @@ entity
 }
 entity
 {
-	"id" "22979"
-	"classname" "prop_static"
-	"angles" "0 238.29 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_large01_grnd.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3763.62 6420 -17"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-12768 -10268]"
-	}
-}
-entity
-{
-	"id" "22980"
-	"classname" "prop_static"
-	"angles" "0 64.29 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3095.62 7530 -51"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-12768 -9768]"
-	}
-}
-entity
-{
 	"id" "22981"
 	"classname" "prop_static"
 	"angles" "0 10.79 0"
@@ -292640,37 +292594,6 @@ entity
 }
 entity
 {
-	"id" "22983"
-	"classname" "prop_static"
-	"angles" "0 204.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3455.62 6390 -31"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-12768 -8268]"
-	}
-}
-entity
-{
 	"id" "22984"
 	"classname" "prop_static"
 	"angles" "0 225.79 0"
@@ -292698,37 +292621,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-12768 -7768]"
-	}
-}
-entity
-{
-	"id" "22985"
-	"classname" "prop_static"
-	"angles" "0 250.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3407.62 7462 -51"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-12768 -7268]"
 	}
 }
 entity
@@ -292857,37 +292749,6 @@ entity
 }
 entity
 {
-	"id" "22990"
-	"classname" "prop_static"
-	"angles" "0 315.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_large01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3892 6496 -45"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-12768 -4768]"
-	}
-}
-entity
-{
 	"id" "22991"
 	"classname" "prop_static"
 	"angles" "0 271.29 0"
@@ -292977,37 +292838,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-12768 -3268]"
-	}
-}
-entity
-{
-	"id" "22994"
-	"classname" "prop_static"
-	"angles" "0 1.29 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_small01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3824 6240 -25"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-12768 -2768]"
 	}
 }
 entity
@@ -313013,37 +312843,6 @@ entity
 }
 entity
 {
-	"id" "23653"
-	"classname" "prop_static"
-	"angles" "0 255 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium_grnd01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-2048.21 2685.51 -24.3375"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7268 2000]"
-	}
-}
-entity
-{
 	"id" "23654"
 	"classname" "prop_static"
 	"angles" "0 30 0"
@@ -313195,37 +312994,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-7268 4500]"
-	}
-}
-entity
-{
-	"id" "23659"
-	"classname" "prop_static"
-	"angles" "0 315 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_medium_grnd01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-2139.63 2444.11 -24.3375"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7268 5000]"
 	}
 }
 entity
@@ -316140,37 +315908,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-6768 -13268]"
-	}
-}
-entity
-{
-	"id" "23754"
-	"classname" "prop_static"
-	"angles" "0 300.79 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_large01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-2280 2033 -17"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-6768 -12768]"
 	}
 }
 entity
@@ -332172,37 +331909,6 @@ entity
 }
 entity
 {
-	"id" "24286"
-	"classname" "prop_static"
-	"angles" "0 89.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "1"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/props_foliage/swamp_cypress_broken01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-1908.8 2728.2 -27.75"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-2768 -6768]"
-	}
-}
-entity
-{
 	"id" "24287"
 	"classname" "prop_static"
 	"angles" "0 270 0"
@@ -344263,7 +343969,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344342,7 +344048,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344421,7 +344127,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344500,7 +344206,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344579,7 +344285,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344658,7 +344364,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344737,7 +344443,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344816,7 +344522,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344895,7 +344601,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -344974,7 +344680,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345053,7 +344759,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345132,7 +344838,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345211,7 +344917,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345290,7 +344996,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345369,7 +345075,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345448,7 +345154,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345527,7 +345233,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345606,7 +345312,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345685,7 +345391,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345764,7 +345470,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -345874,7 +345580,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -349515,7 +349221,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -349594,7 +349300,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -349673,7 +349379,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -349962,7 +349668,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -350007,7 +349713,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -350052,7 +349758,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -350097,7 +349803,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -350142,7 +349848,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -350187,7 +349893,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -352792,7 +352498,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -353266,7 +352972,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -359690,7 +359396,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -359735,7 +359441,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -359780,7 +359486,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -359841,7 +359547,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -359886,7 +359592,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360224,13 +359930,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360269,13 +359975,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360314,13 +360020,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360359,13 +360065,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360404,13 +360110,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360449,13 +360155,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360494,13 +360200,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360539,13 +360245,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -360584,13 +360290,13 @@ entity
 	"healthbonussp" "0"
 	"InfiniteAliens" "0"
 	"LongRange" "1"
-	"MaxLiveAliens" "2"
+	"MaxLiveAliens" "1"
 	"maxoffset" "0 0 0"
 	"MaxSkillLevel" "0"
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -362998,7 +362704,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -363043,7 +362749,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -363088,7 +362794,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -363133,7 +362839,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -363178,7 +362884,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -363223,7 +362929,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "4"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -364797,7 +364503,7 @@ entity
 	"minoffset" "0 0 0"
 	"MinSkillLevel" "0"
 	"NearDistance" "0"
-	"NumAliens" "15"
+	"NumAliens" "8"
 	"reflectorsp" "0"
 	"sizescalesp" "1.0"
 	"SpawnerState" "1"
@@ -367767,7 +367473,7 @@ hidden
 				editor
 				{
 					"color" "220 30 220"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -378247,8 +377953,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2411.45 8378.64 702.847]"
-		"look" "[-2357 8131.03 526.642]"
+		"position" "[-991.416 7985.5 376.871]"
+		"look" "[-1014.69 7683.12 319.017]"
 	}
 }
 cordons
