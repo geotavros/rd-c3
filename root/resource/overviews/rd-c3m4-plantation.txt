@@ -11,6 +11,7 @@ GAME
 	"image"		"swarm/MissionPics/rd-c3m4-plantation"
 	"version"		"1"
 	"author"		"vq"
-	"builtin"		"1"
+	"builtin"		"0"
+	"website"		"https://steamcommunity.com/sharedfiles/filedetails/?id=3671280607"
 	"regional_material"	"retrieved_documents"
 }

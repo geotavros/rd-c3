@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+     addonSteamAppID         563560
+     addontitle              "L4D2: Swamp Fever"
+     addonversion            1.0
+     addontagline            ""
+     addonauthor             "vq"
+     addonSteamGroupName     ""
+     addonauthorSteamID      ""
+     addonContent_Campaign   1
+     addonURL0               "https://steamcommunity.com/sharedfiles/filedetails/?id=3671280607"
+     addonDescription        "L4D2: Swamp Fever campaign"
+}
