@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/SCREEN01.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rd-c3m3-shantytown/c-5589_-2160_108"
-	}
-}

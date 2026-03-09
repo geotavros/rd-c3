@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/liquids/water_swamp_cheap.vmt"
-	"insert"
-	{
-		"$waterdepth"		"30"
-	}
-}

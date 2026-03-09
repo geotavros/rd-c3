@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/METAL_CORRUGATED04A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rd-c3m3-shantytown/c-3953_617_9"
-	}
-}

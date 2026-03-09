@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOOD_PANEL01A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rd-c3m1-plankcountry/c-1024_5440_160"
-	}
-}
